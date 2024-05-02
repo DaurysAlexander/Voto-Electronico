@@ -1,0 +1,15 @@
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormPartidos.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormBienvenida.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCandidatos.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCandidatosPRM.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCandidatosPLD.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCandidatosFP.resources
+C:\Users\hola\Desktop\Pruebas de Lenguajes\Pruebas de C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormCandidatosALPAIS.resources
